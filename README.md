@@ -45,6 +45,12 @@ I'm a **Full-Stack Web Developer** with **2+ years** of experience building effi
   <img src="https://img.icons8.com/?size=256&id=20906&format=png" alt="Git" width="30"/>
   <img src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png" alt="VSCode" width="30"/>
   <img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" alt="Gmail" width="30"/>
+  <img src="https://img.icons8.com/color/256/nodejs.png" alt="Node.js" width="30"/>
+  <img src="https://img.icons8.com/ios/256/express-js.png" alt="Express.js" width="30"/>
+  <img src="https://img.icons8.com/color/256/mongodb.png" alt="MongoDB" width="30"/>
+  <img src="https://img.icons8.com/color/256/firebase.png" alt="Firebase" width="30"/>
+  <img src="https://img.icons8.com/color/256/docker.png" alt="Docker" width="30"/>
+  <img src="https://img.icons8.com/color/256/postman-api.png" alt="Postman" width="30"/>
 </p>
 
 ---
