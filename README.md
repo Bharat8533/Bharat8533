@@ -50,7 +50,7 @@ I'm a **Full-Stack Web Developer** with **2+ years** of experience building effi
   <img src="https://img.icons8.com/color/256/mongodb.png" alt="MongoDB" width="30"/>
   <img src="https://img.icons8.com/color/256/firebase.png" alt="Firebase" width="30"/>
   <img src="https://img.icons8.com/color/256/docker.png" alt="Docker" width="30"/>
-  <img src="https://img.icons8.com/color/256/postman-api.png" alt="Postman" width="30"/>
+  <img src="https://img.icons8.com/color/256/postman.png" alt="Postman" width="30"/>
 </p>
 
 ---
