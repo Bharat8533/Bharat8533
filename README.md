@@ -100,3 +100,4 @@ I'm a **Full-Stack Web Developer** with **~3 years** of experience building effi
   <a href="https://www.instagram.com/imbharat001/"><img src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png" width="30"/></a>
   <a href="mailto:bharat30.dev@gmail.com"><img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" width="30"/></a>
 </p>
+
