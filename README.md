@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** with **~3 years** of experience building efficient, scalable, and user-focused web applications. I specialize in both **frontend** and **backend** development, with strong proficiency in **React.js, Next.js, PHP, and MySQL**.
+I'm a **Full-Stack Web Developer** with **3 years** of experience building efficient, scalable, and user-focused web applications. I specialize in both **frontend** and **backend** development, with strong proficiency in **React.js, Next.js, PHP, and MySQL**.
 
 - 🔧 Currently working at **[Osculant Technologies Pvt. Ltd.](https://osculant.in/)**
 - 🚀 Building platforms in tourism, hospitality, and booking management
