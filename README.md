@@ -58,7 +58,7 @@ I'm a **Full-Stack Web Developer** with **3 years** of experience building effic
 
 ## 💼 Experience
 
-### 🧑‍💻 Web Developer | [Osculant Technologies](https://osculant.in/)  
+### 🧑‍💻 Senior Web Developer | [Osculant Technologies](https://osculant.in/)  
 📅 _July 2024 – Present_  
 📍 Mathura, Uttar Pradesh
 
