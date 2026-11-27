@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bharat Sharma 👋</h1>
 
 <p align="center">
-  📍 Mathura, Uttar Pradesh, India • 📧 <a href="mailto:bharat30.dev@gmail.com">bharat30.dev@gmail.com</a> • 📞 +91 7417216376  
+  📍 Gurugram, Haryana, India • 📧 <a href="mailto:bharat30.dev@gmail.com">bharat30.dev@gmail.com</a> • 📞 +91 7417216376  
 </p>
 
 <p align="center">
