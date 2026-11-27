@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="bharat-dev-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007acc?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bharat-s8533/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bharat-dev-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23007acc?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bharatdev01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/imbharat001" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
